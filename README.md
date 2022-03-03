@@ -25,5 +25,6 @@ Hi there! My name is Sergey. I am developing apps for iOS, but in the near futur
 ### My certificates:
 
 ### Contacts
-> Email: sergey.davlitshin@gmail.com
+> Email: sergey.davlitshin@gmail.com  
+
 > Phone: XXXXXXXXXXXX
