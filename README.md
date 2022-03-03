@@ -1,13 +1,6 @@
 # Curriculum Vitae
-:::row:::
-   :::column span="2":::
-      ## Sergey Davlitshin independent iOS developer.
-   :::column-end:::
-   :::column span="":::
-      ![Me](img/me.jpeg)
-   :::column-end:::
-:::row-end:::
-
+## Sergey Davlitshin independent iOS developer.
+![Me](img/me.jpeg = 20x20)
 Hi there! My name is Sergey. I am developing apps for iOS, but in the near future I would like to make apps also for macOS, watchOS and tvOS as well.
 
 ### Here is the list of skills to become a Junior:
